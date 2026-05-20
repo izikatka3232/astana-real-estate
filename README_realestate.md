@@ -1,8 +1,8 @@
-# 🏙️ Astana Real Estate Analysis
+#  Astana Real Estate Analysis
 
 Исследование рынка недвижимости Астаны на основе данных с Krisha.kz.
 
-## 🎯 Бизнес-вопросы
+##  Бизнес-вопросы
 
 | # | Вопрос | Секция в ноутбуке |
 |---|--------|------------------|
@@ -13,7 +13,7 @@
 | 5 | Какой бюджет нужен для 2-комнатной квартиры? | §8 |
 | 6 | Можно ли предсказать цену по характеристикам? | §10 |
 
-## 🔍 Ключевые находки
+##  Ключевые находки
 
 > Заполни после запуска на реальных данных
 
@@ -23,18 +23,18 @@
 - Бюджет на 2-комн. (медиана по городу): **___ млн ₸**
 - Модель (Gradient Boosting): **R² = ___**, MAE = ___ млн ₸
 
-## 📊 Данные
+##  Данные
 
 - **Источник:** [Kaggle — Astana Real Estate Dataset](https://www.kaggle.com/datasets/turarr/astana-real-estate-dataset)
 - **Объём после чистки:** ___ объявлений
 
-## 🛠️ Стек
+##  Стек
 
 ```
 pandas · numpy · matplotlib · seaborn · scikit-learn
 ```
 
-## 🚀 Запуск
+##  Запуск
 
 ```bash
 pip install -r requirements.txt
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 jupyter notebook astana_real_estate.ipynb
 ```
 
-## 📁 Структура
+##  Структура
 
 ```
 astana-real-estate/
@@ -54,4 +54,4 @@ astana-real-estate/
 ```
 
 ## Автор
-[Твоё имя] · [github.com/izikatka3232](https://github.com/izikatka3232)
+[Yersultan Bissultanov] · [github.com/izikatka3232](https://github.com/izikatka3232)
